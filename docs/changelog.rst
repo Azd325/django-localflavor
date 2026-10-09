@@ -20,6 +20,7 @@ Other changes:
 
 - Add more project links to pyproject.toml
   (`gh-551 <https://github.com/django/django-localflavor/pull/551>`_).
+- Add Django 6.0 and 6.1 classifiers to pyproject.toml.
 
 
 5.1   (2026-08-01)
